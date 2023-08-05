@@ -1,4 +1,4 @@
-#  iTi Graduation Project _ Mobile Development Track
+#  iTi Graduation Project _ Track : Mobile Development using Flutter 
 
 A new Flutter project.
 
