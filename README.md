@@ -1,5 +1,3 @@
-Sure! I have edited the README file and made the photos smaller. Here's the updated version:
-
 # ShopEasy Application 
 
 This is a sample E-Commerce mobile application built using Flutter, which allows users to browse and shop for various products. The app is designed to provide a seamless and user-friendly shopping experience for customers.
