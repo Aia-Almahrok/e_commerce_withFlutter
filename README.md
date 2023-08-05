@@ -34,6 +34,10 @@ This is a sample E-Commerce mobile application built using Flutter, which allows
   <img src="https://github.com/Aia-Almahrok/e_commerce_withFlutter/assets/99560022/391ee9df-e600-4946-b762-29bc849afa79" width="200" alt="Screenshot 10">
   <img src="https://github.com/Aia-Almahrok/e_commerce_withFlutter/assets/99560022/1fd1d1fb-2593-498a-9b97-2665c1ab962c" width="200" alt="Screenshot 11">
 </div>
+<div align="center">
+<img src="https://github.com/Aia-Almahrok/e_commerce_withFlutter/assets/99560022/9512de87-8f18-4a2f-8a73-4e970a3bc8be" width="600" alt="Screenshot 12">
+</div>
+
 
 ## Getting Started
 
