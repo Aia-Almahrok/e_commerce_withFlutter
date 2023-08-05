@@ -71,12 +71,8 @@ To run this application locally on your development machine, follow these steps:
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](/LICENSE). Feel free to use and modify the code as per the terms of the license.
-
 ## Contact
 
-If you have any questions or need further assistance, you can reach out to the project owner at [arwask7@gmail.com, emanf9458@gmail.com and aiaelmahrok908@gmail.com](mailto:email@example.com).
+If you have any questions or need further assistance, you can reach out to the project owner [Error Team] at [arwask7@gmail.com, emanf9458@gmail.com and aiaelmahrok908@gmail.com].
 
 Happy shopping! 🛍️
